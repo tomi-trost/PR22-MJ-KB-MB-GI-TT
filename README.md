@@ -5,23 +5,18 @@ Brezposelnost v Sloveniji
 Rudarili bomo podatke o brezposelnosti v Sloveniji. Za temo smo se odločili, ker bi radi spoznali dejavnike, ki vplivajo na brezposelnosti in dobili boljsi vpogled v problematiko zaposlitev.
 
 VPRASANJE 1
-
 Kako dosezena stopnja izobrazbe vpliva na brezposelnost? 
-
 CILJ 1
-
 Ugotoviti, kako smiselna je visoka izobrazba pri resevanju problema brezposelnosti
 
 VPRASANJE 2
-
 Kako regija prebivalisca vpliva na brezposelnost?
-
 CILJ 2
-
 Ugotoviti, ali regija prebivalisca vpliva na brezposelnost prebivalcev in preveriti, ce se je z uvedbo “remote” dela  ta vpliv zmanjsal.
 
-CILJ 1.5
-
+VPRAŠANJE 3
+Kakšna so gorišč
+CILJ 3
 Ugotoviti katera stopnja izobrazbe ima najboljso moznost zaposlitve v doloceni regiji
 
 
