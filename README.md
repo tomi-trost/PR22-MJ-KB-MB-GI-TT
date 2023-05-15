@@ -15,7 +15,7 @@ CILJ 2
 Ugotoviti, ali regija prebivalisca vpliva na brezposelnost prebivalcev in preveriti, ce se je z uvedbo “remote” dela  ta vpliv zmanjsal.
 
 VPRAŠANJE 3
-
+Ali regija vpliva na zaposljivost neke izobrazbe?
 CILJ 3
 Ugotoviti katera stopnja izobrazbe ima najboljso moznost zaposlitve v doloceni regiji
 
