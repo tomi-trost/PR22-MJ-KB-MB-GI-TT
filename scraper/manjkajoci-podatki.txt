@@ -1,4 +1,4 @@
 po-obcinah/trajanje-brezposelnosti: manjka 2019
 
 po-statisticnah-regijah/izobrazba: manjka 2021
-po-statisticnah-regijah/starost: manjka 2018, 2019, 2020, 2021
+po-statisticnah-regijah/starost: manjka 2020
