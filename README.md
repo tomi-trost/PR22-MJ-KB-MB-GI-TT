@@ -9,17 +9,15 @@ Kako dosezena stopnja izobrazbe vpliva na brezposelnost?
 CILJ 1
 Ugotoviti, kako smiselna je visoka izobrazba pri resevanju problema brezposelnosti
 
-VPRASANJE 2
-Kako regija prebivalisca vpliva na brezposelnost?
+VPRAŠANJE 2
+Ali regija vpliva na zaposljivost neke starostne skupine?
 CILJ 2
-Ugotoviti, ali regija prebivalisca vpliva na brezposelnost prebivalcev in preveriti, ce se je z uvedbo “remote” dela  ta vpliv zmanjsal.
+Ugotoviti kako se spreminjajo deleži brezposelnih po posameznih starostnih skupinah v regijah.
 
-VPRAŠANJE 3
+VPRASANJE 3
 Ali regija vpliva na zaposljivost neke izobrazbe?
-CILJ 3
+CILJ 4
 Ugotoviti katera stopnja izobrazbe ima najboljso moznost zaposlitve v doloceni regiji
-
-
 
 
 PODATKI
