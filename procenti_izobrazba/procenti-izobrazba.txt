@@ -1,9 +1,0 @@
-7.1 KLASIFIKACIJE
-Za prikazovanje podatkov po dejavnosti se od leta 2008 uporablja Standardna
-klasifikacija dejavnosti 2008 (SKD 2008). V mesečnih (stanje na zadnji dan v
-mesecu) in letnih objavah (letna povprečja) ter v objavi strukturnih podatkov (ti
-se objavijo enkrat letno, po stanju konec leta) so podatki prikazani na drugi in
-peti ravni SKD 2008.
-
-vir:
-https://www.stat.si/StatWeb/File/DocSysFile/9538
